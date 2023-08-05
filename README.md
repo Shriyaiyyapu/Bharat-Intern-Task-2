@@ -4,7 +4,7 @@ The Temperature Converter App is a simple and user-friendly mobile application d
 This app is designed to be intuitive, efficient, and accessible to users of all levels.
 
 Features
-Temperature Conversion: The app provides seamless temperature conversion across the three most common units: Celsius (°C), Fahrenheit (°F), and Kelvin (K).
+Temperature Conversion: The app provides seamless temperature conversion across the two most common units: Celsius (°C) and  Fahrenheit (°F).
 User-Friendly Interface: The user interface is clean, intuitive, and visually appealing, making it easy for users to interact with the app.
 Real-Time Conversion: As the user enters a temperature value in one unit, the equivalent values in the other two units are instantly displayed.
 Swipe to Clear: Users can conveniently clear the input field by swiping left on the temperature value.
